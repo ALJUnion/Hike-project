@@ -1,0 +1,17 @@
+body {
+    background-color: #333A35;
+}
+.navigation {
+    display: flex;
+}
+.links {
+    display:flex;
+    font-size: 15px;
+    list-style-type: none;
+}
+a:hover {
+    background-color: white;
+}
+ img {
+     height: 30px;
+ }
